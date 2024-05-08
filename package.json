@@ -1,0 +1,1 @@
+{ "dependencies": { "bufferutil": "^4.0.8", "discord.js": "^14.15.2", "discord.js-selfbot-v13": "latest", "utf-8-validate": "^6.0.3", "zlib-sync": "^0.1.9" } }
